@@ -8,7 +8,7 @@ this repo is a clone of https://github.com/nelaturuk/education_pathways.
 
 ### Activity 4 Screenshots of App
 
-#### Overview
+#### Overview (Zoom was set at like 60% to get the entire picture)
 ![Activity4.3](screenshots/Activity4.2.png)
 
 #### Home Page
