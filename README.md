@@ -16,3 +16,7 @@ this repo is a clone of https://github.com/nelaturuk/education_pathways.
 
 #### Results Table
 ![Activity4.2](screenshots/Activity4.3.png)
+
+
+### Activity 3
+In the previous UI, positioning properties were not used much. All of the content was stuck to the left of the screen. The form fields didn't have any margin between them either. In the new UI, margins and padding having been added to various elements. This makes the content look more readable and there is enough space between different elements as well.
